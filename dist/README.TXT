@@ -1,5 +1,3 @@
-# Cajero-Demo-NB
-
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
